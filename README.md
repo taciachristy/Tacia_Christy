@@ -1,4 +1,4 @@
-# 📊 Superstore Capstone — Beginner Edition
+# 📊 Superstore Capstone 
 
 
 ## Project Overview
