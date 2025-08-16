@@ -17,10 +17,10 @@ Tujuan proyek ini adalah menganalisis dataset **Superstore** untuk memahami fakt
 
 
 ## Insight & Findings
-Insight 1: Ada masalah di profit margin - sales bisa tembus 110K namun profit hanya 18K maximal (margin cuma 16%). Penjualan naik-turun drastis tapi profit hampir flat, artinya ada inefisiensi operasional atau pricing strategy yang salah.
-Insight 2: Technology merupakan penjualan tertinggi namun selisihnya sedikit sekali dengan kategori lain. Hal tersebut baik pada diversifikasi risikonya, namun mengartikan belum ada kategori yang bener-bener "cash cow" untuk di-leverage maksimal.
-Insight 3: West region profit hampir 3x lipat Central region ini merupakan masalah besar. Kemungkinan ada masalah distribusi, kompetisi lokal, atau tim sales Central yang perlu di-revamp atau rombak total.
-Insight 4: Terlalu bergantung pada satu produk (Canon Copier) kalau kompetitor nyerang produk ini atau ada supply issue, langsung collapse. Produk lainnya gap-nya kejauhan.
+- Insight 1: Ada masalah di profit margin - sales bisa tembus 110K namun profit hanya 18K maximal (margin cuma 16%). Penjualan naik-turun drastis tapi profit hampir flat, artinya ada inefisiensi operasional atau pricing strategy yang salah.
+- Insight 2: Technology merupakan penjualan tertinggi namun selisihnya sedikit sekali dengan kategori lain. Hal tersebut baik pada diversifikasi risikonya, namun mengartikan belum ada kategori yang bener-bener "cash cow" untuk di-leverage maksimal.
+- Insight 3: West region profit hampir 3x lipat Central region ini merupakan masalah besar. Kemungkinan ada masalah distribusi, kompetisi lokal, atau tim sales Central yang perlu di-revamp atau rombak total.
+- Insight 4: Terlalu bergantung pada satu produk (Canon Copier) kalau kompetitor nyerang produk ini atau ada supply issue, langsung collapse. Produk lainnya gap-nya kejauhan.
 
 
 ## AI Support Explanation
